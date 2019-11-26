@@ -1,11 +1,3 @@
-<!--
- * @Author: 文哲
- * @Date: 2019-11-25 20:02:44
- * @LastEditors: 文哲
- * @LastEditTime: 2019-11-26 09:36:33
- * @Description: ~~~
- -->
-
 # cnode_react
 
 ## 所需要的技术栈
