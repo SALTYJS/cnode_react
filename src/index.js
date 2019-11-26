@@ -7,7 +7,7 @@ const App = () => {
     <div>
       <h1 className={Styles.title}>Cnode React</h1>
     </div>
-  );xsaxsa
+  );
 };
 
 ReactDOM.render(<App />, document.getElementById("root"));
